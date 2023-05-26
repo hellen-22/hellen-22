@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hellen Wainaina</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 💬 Ask me about **Django and DjangoRestFramework**
 
 - 📝 I regularly write articles on [https://medium.com/@hellenwain_54279](https://medium.com/@hellenwain_54279)
-
-- 💬 Ask me about **Django and DjangoRestFramework**
+ 
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **hellenwain@gmail.com**
 
