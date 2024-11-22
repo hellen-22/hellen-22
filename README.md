@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hellenwain_54279](https://medium.com/@hellenwain_54279)
  
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **hellenwain@gmail.com**
 
